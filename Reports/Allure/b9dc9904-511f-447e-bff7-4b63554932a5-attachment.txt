@@ -1,0 +1,5 @@
+initiating chrome driver
+Qualitrix Application is launched Successfully ... ..... PASS
+Qualitrix logo is present
+Get a quote text color is: White
+Get a quote background color is: Orange

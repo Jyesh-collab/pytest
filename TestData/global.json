@@ -1,0 +1,17 @@
+{
+    "url_google": "https://www.google.com",
+    "url_docker": "https://www.docker.com",
+    "url_webucator": "https://www.webucator.com",
+    "url_heroku":"https://the-internet.herokuapp.com/",
+    "url_saucelab": "https://www.saucedemo.com/",
+    "title": "Swag Labs",
+    "username": "standard_user",
+    "password": "secret_sauce",
+    "Product_1":"Sauce Labs Backpack",
+    "Product_2":"Sauce Labs Bike Light",
+    "Firstname":"Jyesh",
+    "Lastname":"R",
+    "Zipcode":"123",
+    "WH":"https://www.letskodeit.com/practice",
+    "url_qualitrix":"https://qualitrix.com/"
+}
